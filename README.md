@@ -1,11 +1,12 @@
 # ReactJS-Sources
-All ReactJS source code examples.
+All React JS source code examples.
 
 All branches to search:
-- ReactJSExercises
-- ReactJSExamples
-- ReactJSProjects
-- ReactJSPatterns
+- ReactExercises
+- ReactExamples
+- ReactComponnets
+- ReactProjects
+- ReactPatterns
 
 #### …or push an existing repository from the command line
 ```
